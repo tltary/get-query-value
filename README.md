@@ -9,7 +9,6 @@ npm i get-query-value --save
 ```
 
 ```
-
 import getQueryValue from 'get-query-value';
 
 // using
