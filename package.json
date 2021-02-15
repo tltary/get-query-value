@@ -1,0 +1,30 @@
+{
+  "name": "get-query-value",
+  "version": "1.0.0",
+  "description": "Easy way to get url query",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tltary/get-query-value.git"
+  },
+  "keywords": [
+    "url",
+    "query",
+    "get",
+    "query",
+    "query",
+    "url",
+    "url",
+    "query",
+    "parser"
+  ],
+  "author": "fluffysaurrex",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tltary/get-query-value/issues"
+  },
+  "homepage": "https://github.com/tltary/get-query-value#readme"
+}
